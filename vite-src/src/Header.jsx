@@ -14,7 +14,7 @@ const Header = () => {
     <>
      <Menu onClick={onClick} selectedKeys={[current]} mode="horizontal">
       <Menu.Item key="h">
-       <Link to={"/."}>Home</Link>
+       <Link to={"/"+baseUrl + "/"}>Home</Link>
       </Menu.Item>
       <Menu.Item key="l">
         <Link to={baseUrl + "/factions"}>Factions</Link>
