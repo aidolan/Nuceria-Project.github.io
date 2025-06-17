@@ -1,1062 +1,1020 @@
 [
   {
-    "Unit": "Robute Guilliman",
+    "Unit ": "Robute Guilliman ",
     "Type": "Primarch",
     "Current Points": "345",
     "New Points": "20",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "144, 145",
     "Ability": "Author of the Codex: 2x Oath of Moment active at once.",
-    "Notes": ""
+    "Ability 2": "Master Strategist: Select 2x units from your army. They may activate during this unit's activation.",
+    "Ability 3": "Avenging Son: Each time a friendly unit dies, +1 to this unit's damage. Reduce Starting damage to balance.",
+    "Keywords": "Monster, Ultramarines"
   },
   {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "Master Strategist: Select 2x units from your army. They may activate during this unit's activation.",
-    "Notes": ""
-  },
-  {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "Avenging Son: Each time a friendly unit dies, +1 to this unit's damage.",
-    "Notes": "Reduce Starting damage to balance."
-  },
-  {
-    "Unit": "Lion el'Johnson",
+    "Unit ": "Lion el'Johnson",
     "Type": "Primarch",
     "Current Points": "315",
     "New Points": "20",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "152, 153",
     "Ability": "The Watchers: Enemy units within 12\" cannot use abilities.",
-    "Notes": ""
+    "Ability 2": "Angelus Mortis: 12\" aura Fights First",
+    "Ability 3": "Son of the Forest: 12\" aura Anti-Colossal 2+",
+    "Keywords": "Monster, Dark Angels"
   },
   {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "Angelus Mortis: 12\" aura Fights First",
-    "Notes": ""
-  },
-  {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "Son of the Forest: 12\" aura Anti-Colossal 2+",
-    "Notes": ""
-  },
-  {
-    "Unit": "Leman Russ",
+    "Unit ": "Leman Russ",
     "Type": "Primarch",
     "Current Points": "-",
     "New Points": "20",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "150, 151",
     "Ability": "ring giver thing",
-    "Notes": ""
+    "Ability 2": "viking strength sight",
+    "Keywords": "Monster, Space Wolves"
   },
   {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "viking strength sight",
-    "Notes": ""
-  },
-  {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "",
-    "Notes": ""
-  },
-  {
-    "Unit": "Rogal Dorn",
+    "Unit ": "Rogal Dorn",
     "Type": "Primarch",
     "Current Points": "-",
     "New Points": "20",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "154, 155",
     "Ability": "toughness bonus",
-    "Notes": ""
+    "Ability 2": "Strikes of Retribution: Attacking unit suffers 1 mortal wound for each missed attack against this unit.",
+    "Keywords": "Monster, Imperial Fists"
   },
   {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "",
-    "Notes": ""
-  },
-  {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "",
-    "Notes": ""
-  },
-  {
-    "Unit": "Jaghatai Khan",
+    "Unit ": "Jaghatai Khan",
     "Type": "Primarch",
     "Current Points": "-",
     "New Points": "20",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "156, 157",
     "Ability": "speed/move action",
-    "Notes": ""
+    "Keywords": "Monster, White Scars"
   },
   {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "",
-    "Notes": ""
-  },
-  {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "",
-    "Notes": ""
-  },
-  {
-    "Unit": "Corvus Corax",
+    "Unit ": "Corvus Corax",
     "Type": "Primarch",
     "Current Points": "-",
     "New Points": "20",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "159, 160",
     "Ability": "Perfect Execution: if a target is at 5 health or lower, this unit can use its \"Attack\" action to execute it instead. Target unit is destroyed without saves. No abilities negate this damage or block it.",
-    "Notes": ""
+    "Ability 2": "Ravenguard: 12\" aura of stealth",
+    "Ability 3": "Unnatural Silence: when this model is selected to move, you may place it anywhere you wish on the table outside of engagement range instead of making a normal move.",
+    "Keywords": "Monster, Raven Guard"
   },
   {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "Ravenguard: 12\" aura of stealth",
-    "Notes": ""
-  },
-  {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "Unnatural Silence: when this model is selected to move, you may place it anywhere you wish on the table outside of engagement range instead of making a normal move.",
-    "Notes": ""
-  },
-  {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "",
-    "Notes": ""
-  },
-  {
-    "Unit": "Marneus Calgar",
+    "Unit ": "Marneus Calgar",
     "Type": "Chapter Master",
     "Current Points": "210",
-    "New Points": "7",
-    "Model Count": "3",
+    "New Points": "5",
+    "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "146, 147",
     "Ability": "Master Commander: Select 1x unit from your army. That unit may activate during this unit's activation.",
-    "Notes": ""
+    "Keywords": "Chapter Master, Ultramarines"
   },
   {
-    "Unit": "Azrael",
+    "Unit ": "Victrix Honor Guard",
+    "Type": "Honor Guard",
+    "Current Points": "-",
+    "New Points": "1",
+    "Model Count": "1",
+    "Reinforcable": "Yes",
+    "Weapon Ids": "118",
+    "Ability": "This unit may join any unit with a \"Chapter Master\" model.",
+    "Keywords": "Infantry, Ultramarines"
+  },
+  {
+    "Unit ": "Azrael",
     "Type": "Chapter Master",
     "Current Points": "115",
     "New Points": "5",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "12, 148",
     "Ability": "Lion's Helm: models in this unit have 4+ FNP.",
-    "Notes": ""
+    "Keywords": "Chapter Master, Dark Angels"
   },
   {
-    "Unit": "High Marshall Helbrecht",
+    "Unit ": "High Marshall Helbrecht",
     "Type": "Chapter Master",
     "Current Points": "130",
     "New Points": "5",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "12, 158",
     "Ability": "Marshall of the Endless Crusade: Deal d6 mortal wounds to 1 enemy unit in melee range with this unit.",
-    "Notes": ""
+    "Keywords": "Chapter Master, Black Templars"
   },
   {
-    "Unit": "Commander Dante",
+    "Unit ": "Commander Dante",
     "Type": "Chapter Master",
     "Current Points": "130",
     "New Points": "5",
     "Model Count": "1",
     "Reinforcable": "Leader",
-    "Ability": "Death Mask of Sanguinius: each time a friendly unit dies, one unit from your army may take 1x \"Action\" for free.",
-    "Notes": ""
+    "Weapon Ids": "46, 149",
+    "Ability": "Death Mask of Sanguinius: each time a friendly unit dies, one unit from your army may take 1x \"Action\" for free. ",
+    "Keywords": "Chapter Master, Blood Angels"
   },
   {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "Strikes of Retribution: Attacking unit suffers 1 mortal wound for each missed attack against this unit.",
-    "Notes": ""
-  },
-  {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "",
-    "Notes": ""
-  },
-  {
-    "Unit": "Ancient",
+    "Unit ": "Ancient ",
     "Type": "Aesthetic/Lore Character",
     "Current Points": "50",
     "New Points": "2",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "118",
     "Ability": "Aura of 12\" dice rerolls. Every activation (yours and opponents) may reroll one dice.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Apothecary",
+    "Unit ": "Apothecary ",
     "Type": "Support Character",
     "Current Points": "50",
     "New Points": "2",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "4",
     "Ability": "Heal d3 wounds from infantry unit within 6\".",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Chaplain",
+    "Unit ": "Chaplain",
     "Type": "Support Character",
     "Current Points": "60",
     "New Points": "2",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "4, 108",
     "Ability": "This unit cannot be battleshocked.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Librarian",
+    "Unit ": "Librarian",
     "Type": "Support Character",
     "Current Points": "65",
     "New Points": "3",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "115",
     "Ability": "Counterspell: cancel spells against units within 12\" on a 4+.",
-    "Notes": ""
+    "Ability 2": "Smite: 24\" range, d6 shots, 6P, -2AP, d3 dam (hazardous)",
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Judiciar",
+    "Unit ": "Judiciar",
     "Type": "Damage Character",
     "Current Points": "70",
     "New Points": "3",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "127",
     "Ability": "Unit can reroll hit against characters.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Techmarine",
+    "Unit ": "Techmarine",
     "Type": "Support Character",
     "Current Points": "55",
     "New Points": "2",
     "Model Count": "1",
     "Reinforcable": "Tank Leader",
+    "Weapon Ids": "20, 118",
     "Ability": "Heal d3 wounds from vehicle unit within 6\".",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Captain",
+    "Unit ": "Captain ",
     "Type": "Damage Character",
     "Current Points": "80",
     "New Points": "3",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "12, 118",
     "Ability": "Champion Strategist: Select one friendly unit in your army within 6\". It may activate during this unit's activation.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Lieutenant",
+    "Unit ": "Lieutenant",
     "Type": "Support Character",
     "Current Points": "65",
     "New Points": "2",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "12, 118",
     "Ability": "Aspiring Strategist: Select one friendly unit in your army within 6\". It may take 1x \"Action\" during this unit's activation.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Captain Sicarius",
+    "Unit ": "Captain Sicarius",
     "Type": "Support Character",
     "Current Points": "85",
     "New Points": "3",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "35, 118",
     "Ability": "Champion of Macragge: When this unit activates, 2x \"Infantry\" units within 6\" may take the \"Move\" action.",
-    "Notes": ""
+    "Keywords": "Infantry, Unique"
   },
   {
-    "Unit": "Chief Librarian Tigurius",
+    "Unit ": "Chief Librarian Tigurius",
     "Type": "Support Character",
     "Current Points": "75",
     "New Points": "3",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "115",
     "Ability": "Hellfire Imperialis (spell):  select unit within 24\" to make a 4+ save. If failed, that unit takes d6 mortal wounds.",
-    "Notes": ""
+    "Ability 2": "Smite: 24\" range, d6 shots, 6P, -2AP, d3 dam (hazardous)",
+    "Keywords": "Infantry, Unique"
   },
   {
-    "Unit": "Uriel Ventris",
+    "Unit ": "Uriel Ventris",
     "Type": "Support Character",
     "Current Points": "95",
     "New Points": "3",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "12, 118",
     "Ability": "Fleetmaster: When this unit activates, select any number of units in \"Deepstrike\". Those units may arrive on the battlefield according to the laws of \"Deepstrike\" during this unit's activation, but may take no other actions this turn.",
-    "Notes": ""
+    "Keywords": "Infantry, Unique"
   },
   {
-    "Unit": "Ezekiel",
+    "Unit ": "Ezekiel",
     "Type": "Support Character",
     "Current Points": "75",
     "New Points": "2",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "115",
     "Ability": "Book of Salvation: (spell) if on an objective under your control, you may spend an activation to teleport this unit to another objective under your control.",
-    "Notes": ""
+    "Ability 2": "Smite: 24\" range, d6 shots, 6P, -2AP, d3 dam (hazardous)",
+    "Keywords": "Infantry, Unique"
   },
   {
-    "Unit": "Lazarus",
+    "Unit ": "Lazarus",
     "Type": "Damage Character",
     "Current Points": "70",
     "New Points": "2",
     "Model Count": "1",
     "Reinforcable": "Leader",
-    "Ability": "Spiritshield Helm: All models in this unit may attack (ranged or melee) on death.",
-    "Notes": ""
+    "Weapon Ids": "127",
+    "Ability": "Spiritshield Helm: All models in this unit may attack (ranged or melee) on death. ",
+    "Keywords": "Infantry, Unique"
   },
   {
-    "Unit": "Sammael",
+    "Unit ": "Sammael",
     "Type": "Damage Character",
     "Current Points": "115",
     "New Points": "3",
     "Model Count": "1",
     "Reinforcable": "Leader",
-    "Ability": "Grand Master of the Ravenwing: When this unit activates, 2x \"Mounted\" units within 12\" may take the \"Move\" action.",
-    "Notes": ""
+    "Weapon Ids": "38, 127",
+    "Ability": "Grand Master of the Ravenwing: When this unit activates, 2x \"Mounted\" units within 12\" may take the \"Move\" action. ",
+    "Keywords": "Cavalry, Unique"
   },
   {
-    "Unit": "Belial",
+    "Unit ": "Belial",
     "Type": "Damage Character",
     "Current Points": "85",
     "New Points": "3",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "8, 127",
     "Ability": "Grand Master of the Deathwing: After this unit destroys an enemy, you may remove it from the battlefield and place it into reserves.",
-    "Notes": ""
+    "Keywords": "Infantry, Unique"
   },
   {
-    "Unit": "Asmodai",
+    "Unit ": "Asmodai",
     "Type": "Support Character",
     "Current Points": "70",
     "New Points": "2",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "108, 118",
     "Ability": "Feared Interrogator: On activation, all character units (enemy and friendly) within 6\" of this unit become battleshocked.",
-    "Notes": ""
+    "Keywords": "Infantry, Unique"
   },
   {
-    "Unit": "Chaplain Grimaldus",
+    "Unit ": "Chaplain Grimaldus",
     "Type": "Support Character",
     "Current Points": "130",
     "New Points": "3",
     "Model Count": "4",
     "Reinforcable": "Leader",
+    "Weapon Ids": "35, 108",
     "Ability": "Relics of the Emperor Ascendant: on this unit's activation, select one 6\" aura to be active: Advance and charge; FNP 6+; +1 AP.",
-    "Notes": ""
+    "Keywords": "Infantry, Unique"
   },
   {
-    "Unit": "Marshall",
+    "Unit ": "Marshall",
     "Type": "Damage Character",
     "Current Points": "80",
     "New Points": "3",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "41, 118",
     "Ability": "Finest Hour: When this unit activates, you may select 1x unit within 6\" to take the \"Attack\" action.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "The Emperor's Champion",
+    "Unit ": "The Emperor's Champion",
     "Type": "Damage Character",
     "Current Points": "75",
     "New Points": "3",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "127",
     "Ability": "Sigismund's Heir: Once per/activation (yours and opponents), when this model takes damage, change the damage characteristic to 0.",
-    "Notes": ""
+    "Keywords": "Infantry, Unique"
   },
   {
-    "Unit": "Chief Librarian Mephiston",
+    "Unit ": "Chief Librarian Mephiston",
     "Type": "Damage Character",
     "Current Points": "135",
     "New Points": "3",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "35, 115",
     "Ability": "Transfixing Gaze (spell); Select one unit within 12\". That unit must succeed on a 4+ or be unable to take the \"Move\" action in the following activation.",
-    "Notes": ""
+    "Ability 2": "Smite: 24\" range, d6 shots, 6P, -2AP, d3 dam (hazardous)",
+    "Keywords": "Infantry, Unique"
   },
   {
-    "Unit": "Lemartes",
+    "Unit ": "Lemartes",
     "Type": "Damage Character",
     "Current Points": "110",
     "New Points": "3",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "4, 108",
     "Ability": "Guardian of the Lost: When this unit activates, 2x \"Death Company Infantry\" units may take the \"Move\" or \"Attack\" action.",
-    "Notes": ""
+    "Keywords": "Infantry, Unique"
   },
   {
-    "Unit": "Astorath",
+    "Unit ": "Astorath",
     "Type": "Damage Character",
     "Current Points": "105",
     "New Points": "3",
     "Model Count": "1",
     "Reinforcable": "Leader",
-    "Ability": "Blood Tithe: damage from this model's attacks heals the unit it is in, including returning any lost models.",
-    "Notes": ""
+    "Weapon Ids": "127",
+    "Ability": "Blood Tithe: damage from this model's attacks heals the unit it is in, including returning any lost models. ",
+    "Keywords": "Infantry, Unique"
   },
   {
-    "Unit": "Sanguinary Priest",
+    "Unit ": "Sanguinary Priest",
     "Type": "Support Character",
     "Current Points": "90",
     "New Points": "2",
     "Model Count": "1",
     "Reinforcable": "Leader",
+    "Weapon Ids": "4, 110",
     "Ability": "Mass of Doom: 6\" aura, weapons have \"Devastating Wounds\"",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "The Sanguinor",
+    "Unit ": "The Sanguinor",
     "Type": "Damage Character",
     "Current Points": "140",
     "New Points": "5",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "127",
     "Ability": "Miraculous Savior: once per/game, when an enemy enters melee with a friendly unit, this model may be set up within the same melee and may fight first.",
-    "Notes": ""
+    "Keywords": "Infantry, Unique"
   },
   {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "",
-    "Notes": ""
-  },
-  {
-    "Unit": "Intercessor Squad",
+    "Unit ": "Intercessor Squad",
     "Type": "Infantry",
     "Current Points": "80",
     "New Points": "5",
     "Model Count": "5",
     "Reinforcable": "Yes",
+    "Weapon Ids": "12, 69, 70",
     "Ability": "Whenever your Oath of Moment target activates, 1x unit with this ability may also activate.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Assault Intercessor Squad",
+    "Unit ": "Assault Intercessor Squad",
     "Type": "Infantry",
     "Current Points": "75",
     "New Points": "5",
     "Model Count": "5",
     "Reinforcable": "Yes",
+    "Weapon Ids": "4, 110, 121",
     "Ability": "Advance and charge.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Assault Intercessor Squad with Jump Packs",
+    "Unit ": "Assault Intercessor Squad with Jump Packs",
     "Type": "Infantry",
     "Current Points": "90",
     "New Points": "6",
     "Model Count": "5",
     "Reinforcable": "Yes",
+    "Weapon Ids": "4, 110, 121",
     "Ability": "Advance and charge.",
-    "Notes": ""
+    "Keywords": "Infantry, Fly"
   },
   {
-    "Unit": "Primaris Crusader Squad",
+    "Unit ": "Primaris Crusader Squad",
     "Type": "Elite",
     "Current Points": "150",
     "New Points": "7",
     "Model Count": "10",
     "Reinforcable": "Yes",
+    "Weapon Ids": "4, 12, 43, 110, 118, 117",
     "Ability": "Devout Push: This unit may take the \"Move\" action when 1 or more models dies.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Heavy Intercessor Squad",
+    "Unit ": "Heavy Intercessor Squad",
     "Type": "Heavy Infantry",
     "Current Points": "110",
     "New Points": "6",
     "Model Count": "5",
     "Reinforcable": "Yes",
+    "Weapon Ids": "13, 15",
     "Ability": "Objective remains under control.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Aggressor Squad",
+    "Unit ": "Aggressor Squad",
     "Type": "Heavy Infantry",
     "Current Points": "120",
     "New Points": "4",
     "Model Count": "3",
     "Reinforcable": "Yes",
+    "Weapon Ids": "5, 42, 117 ",
     "Ability": "Plus 1 to AP against closest enemy unit.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Bladeguard Veterans",
+    "Unit ": "Bladeguard Veterans",
     "Type": "Elite",
     "Current Points": "80",
     "New Points": "5",
     "Model Count": "3",
     "Reinforcable": "Yes",
+    "Weapon Ids": "118",
     "Ability": "Plus 1A or 1Str in melee.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Sternguard Veterans",
+    "Unit ": "Sternguard Veterans",
     "Type": "Elite",
     "Current Points": "100",
     "New Points": "6",
     "Model Count": "5",
     "Reinforcable": "Yes",
+    "Weapon Ids": "12, 15",
     "Ability": "Plus 1A or 1Str in ranged.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Company Heroes",
+    "Unit ": "Company Heroes",
     "Type": "Aesthetic/Lore Character",
     "Current Points": "105",
     "New Points": "3",
     "Model Count": "4",
     "Reinforcable": "No",
+    "Weapon Ids": "13, 15, 118, 127",
     "Ability": "Units within 6\" may take 1x \"Action\" whenever this unit activates.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Inner Circle Companions",
+    "Unit ": "Inner Circle Companions",
     "Type": "Elite",
     "Current Points": "90",
     "New Points": "5",
     "Model Count": "3",
     "Reinforcable": "Yes",
+    "Weapon Ids": "35, 127",
     "Ability": "6\" aura, weapons have \"Devastating Wounds\"",
+    "Keywords": "Infantry",
     "Notes": "veterans, relic weapons"
   },
   {
-    "Unit": "Primaris Sword Bretheren",
+    "Unit ": "Primaris Sword Bretheren",
     "Type": "Elite",
     "Current Points": "150",
     "New Points": "6",
     "Model Count": "5",
     "Reinforcable": "Yes",
+    "Weapon Ids": "4, 35, 41, 118, 121",
     "Ability": "Holy Incense: Once per/battle add 2A and Lethal Hits to this unit's melee attacks.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Sanguinary Guard",
+    "Unit ": "Sanguinary Guard",
     "Type": "Elite",
     "Current Points": "130",
     "New Points": "6",
     "Model Count": "3",
     "Reinforcable": "Yes",
-    "Ability": "-1 damage.",
-    "Notes": ""
+    "Weapon Ids": "46, 127",
+    "Ability": "Deepstrike",
+    "Ability 2": "-1 damage.",
+    "Keywords": "Infantry, Fly"
   },
   {
-    "Unit": "Death Company Marines",
+    "Unit ": "Death Company Marines",
     "Type": "Elite",
     "Current Points": "85",
     "New Points": "5",
     "Model Count": "5",
     "Reinforcable": "Yes",
+    "Weapon Ids": "4, 41, 110, 111",
     "Ability": "6+ FNP",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Desolation Squad",
+    "Unit ": "Desolation Squad",
     "Type": "Infantry",
     "Current Points": "200",
     "New Points": "7",
     "Model Count": "5",
     "Reinforcable": "Yes",
-    "Ability": "Indirect Fire.",
-    "Notes": ""
+    "Weapon Ids": "74, 75",
+    "Ability": "Indirect Fire. ",
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Devastator Squad",
+    "Unit ": "Devastator Squad",
     "Type": "Infantry",
     "Current Points": "120",
     "New Points": "6",
     "Model Count": "5",
     "Reinforcable": "Yes",
+    "Weapon Ids": "38, 29, 21",
     "Ability": "Reroll damage against \"Infantry\" and \"Mounted\" units.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Eradicator Squad",
+    "Unit ": "Eradicator Squad",
     "Type": "Infantry",
     "Current Points": "100",
     "New Points": "6",
     "Model Count": "5",
     "Reinforcable": "Yes",
+    "Weapon Ids": "47, 48",
     "Ability": "Reroll Damage against \"Vehicles\" or \"Monsters\" units.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Eliminators",
+    "Unit ": "Eliminators",
     "Type": "Light Infantry",
     "Current Points": "85",
     "New Points": "3",
     "Model Count": "3",
     "Reinforcable": "No",
-    "Ability": "Reroll attacks vs character units.",
-    "Notes": "Ambush."
+    "Weapon Ids": "14",
+    "Ability": "Ambush.",
+    "Ability 2": "Reroll attacks vs character units.",
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Hellblasters",
+    "Unit ": "Hellblasters",
     "Type": "Infantry",
     "Current Points": "115",
     "New Points": "6",
     "Model Count": "5",
     "Reinforcable": "Yes",
+    "Weapon Ids": "37",
     "Ability": "Each time this unit is attacked, after removing models you may return fire but can only target the unit that shot at this one.",
+    "Keywords": "Infantry",
     "Notes": "Similar to hellbrute."
   },
   {
-    "Unit": "Infernus Squad",
+    "Unit ": "Infernus Squad",
     "Type": "Infantry",
     "Current Points": "90",
     "New Points": "5",
     "Model Count": "5",
     "Reinforcable": "Yes",
+    "Weapon Ids": "43",
     "Ability": "Overwatch: May take \"Attack\" action when an enemy unit ends movement within 12\" of it.",
-    "Notes": ""
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Inceptor Squad",
+    "Unit ": "Inceptor Squad",
     "Type": "Heavy Infantry",
     "Current Points": "120",
     "New Points": "5",
     "Model Count": "3",
     "Reinforcable": "Yes",
-    "Ability": "\"Sustained Hits 2\" on activation this unit arrives from deepstrike.",
-    "Notes": "Deep strike."
+    "Weapon Ids": "6, 36",
+    "Ability": "Deep strike.",
+    "Ability 2": "\"Sustained Hits 2\" on activation this unit arrives from deepstrike.",
+    "Keywords": "Infantry, Fly"
   },
   {
-    "Unit": "Infiltrator Squad",
+    "Unit ": "Infiltrator Squad",
     "Type": "Light Infantry",
     "Current Points": "100",
     "New Points": "5",
     "Model Count": "5",
     "Reinforcable": "Yes",
-    "Ability": "Omni-Scramblers: enemy deep strike units cannot arrive within 24\" of this unit.",
-    "Notes": "Ambush."
+    "Weapon Ids": "12",
+    "Ability": "Ambush.",
+    "Ability 2": "Omni-Scramblers: enemy deep strike units cannot arrive within 24\" of this unit.",
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Incursor Squad",
+    "Unit ": "Incursor Squad",
     "Type": "Light Infantry",
     "Current Points": "80",
     "New Points": "4",
     "Model Count": "5",
     "Reinforcable": "Yes",
-    "Ability": "Haywire Mine: may spend \"attack\" action to place a haywire mine within 3\" of this unit. Mines last until end of game or until triggered. Place token to remember. When a unit (friendly or enemy) moves within 3\" of this mine, it explodes, dealing d6 damage to that unit.",
-    "Notes": "Ambush."
+    "Weapon Ids": "12",
+    "Ability": "Ambush.",
+    "Ability 2": "Haywire Mine: may spend \"attack\" action to place a haywire mine within 3\" of this unit. Mines last until end of game or until triggered. Place token to remember. When a unit (friendly or enemy) moves within 3\" of this mine, it explodes, dealing d6 damage to that unit. ",
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Reiver Squad",
+    "Unit ": "Reiver Squad",
     "Type": "Light Infantry",
     "Current Points": "80",
     "New Points": "4",
     "Model Count": "5",
     "Reinforcable": "Yes",
-    "Ability": "If this unit is not engaged with enemy units at the end of its activation, it may be returned to reserves.",
-    "Notes": "Deep strike."
+    "Weapon Ids": "4, 118",
+    "Ability": "Deepstrike",
+    "Ability 2": "If this unit is not engaged with enemy units at the end of its activation, it may be returned to reserves. ",
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Scout Squad",
+    "Unit ": "Scout Squad",
     "Type": "Light Infantry",
     "Current Points": "70",
     "New Points": "4",
     "Model Count": "5",
     "Reinforcable": "Yes",
-    "Ability": "Unit may activate 1x \"Move\" action when an enemy ends movement within 6\" of them.",
-    "Notes": "Ambush"
+    "Weapon Ids": "12, 69, 70, 14",
+    "Ability": "Ambush",
+    "Ability 2": "Unit may activate 1x \"Move\" action when an enemy ends movement within 6\" of them.",
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Suppressor Squad",
+    "Unit ": "Suppressor Squad",
     "Type": "Cavalry",
     "Current Points": "75",
     "New Points": "4",
     "Model Count": "3",
     "Reinforcable": "No",
-    "Ability": "Units attacked by this unit cannot receive any benefit of the \"Charge\" action.",
-    "Notes": ""
+    "Weapon Ids": "55",
+    "Ability": "Deepstrike",
+    "Ability 2": "Units attacked by this unit cannot receive any benefit of the \"Charge\" action.",
+    "Keywords": "Infantry, Fly"
   },
   {
-    "Unit": "Invader ATV",
+    "Unit ": "Invader ATV",
     "Type": "Cavalry",
     "Current Points": "60",
     "New Points": "2",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "48",
     "Ability": "After a friendly unit within 6\" of this unit is attacked, this unit may return fire but can only target the unit that just activated.",
-    "Notes": ""
+    "Keywords": "Cavalry"
   },
   {
-    "Unit": "Outrider Squad",
+    "Unit ": "Outrider Squad",
     "Type": "Cavalry",
     "Current Points": "80",
     "New Points": "5",
     "Model Count": "3",
     "Reinforcable": "Yes",
+    "Weapon Ids": "12, 110",
     "Ability": "Deal 1 mortal wounds per model to an enemy unit after a successful \"Charge\" into melee range.",
-    "Notes": ""
+    "Keywords": "Cavalry"
   },
   {
-    "Unit": "Storm Speeder Hammerstrike/Thunderstrike/Hailstrike",
+    "Unit ": "Storm Speeder Hammerstrike/Thunderstrike/Hailstrike",
     "Type": "Cavalry",
     "Current Points": "125",
     "New Points": "6",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "30, 78, 85",
     "Ability": "After this unit makes an \"Attack\" action, 1x unit within 12\" may take 1x \"Attack\" action.",
-    "Notes": ""
+    "Keywords": "Cavalry, Fly"
   },
   {
-    "Unit": "Terminator Squad",
+    "Unit ": "Terminator Squad",
     "Type": "Super Heavy",
     "Current Points": "170",
     "New Points": "7",
     "Model Count": "5",
     "Reinforcable": "Yes",
-    "Ability": "-1 to be hit.",
-    "Notes": ""
+    "Weapon Ids": "8, 52, 116, 117, 118",
+    "Ability": "Deepstrike",
+    "Ability 2": "-1 to be hit.",
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Deathwing Terminator Squad",
+    "Unit ": "Deathwing Terminator Squad",
     "Type": "Super Heavy",
     "Current Points": "180",
     "New Points": "7",
     "Model Count": "5",
     "Reinforcable": "Yes",
-    "Ability": "When this unit arrives from deepstrike, all enemy units within 6\" must make battleshock test at -2.",
-    "Notes": ""
+    "Weapon Ids": "8, 38, 52, 116, 117, 118",
+    "Ability": "Deepstrike",
+    "Ability 2": "When this unit arrives from deepstrike, all enemy units within 6\" must make battleshock test at -2.",
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "Deathwing Knights",
+    "Unit ": "Deathwing Knights",
     "Type": "Super Heavy",
     "Current Points": "250",
     "New Points": "8",
     "Model Count": "5",
     "Reinforcable": "No",
-    "Ability": "-1 damage.",
-    "Notes": ""
+    "Weapon Ids": "127",
+    "Ability": "Deepstrike",
+    "Ability 2": "-1 damage.",
+    "Keywords": "Infantry"
   },
   {
-    "Unit": "",
-    "Type": "",
-    "Current Points": "",
-    "New Points": "",
-    "Model Count": "",
-    "Reinforcable": "",
-    "Ability": "",
-    "Notes": ""
-  },
-  {
-    "Unit": "Drop Pod",
+    "Unit ": "Drop Pod",
     "Type": "Transport",
     "Current Points": "70",
-    "New Points": "5",
+    "New Points": "2",
     "Model Count": "1",
     "Reinforcable": "No",
-    "Ability": "Can activate with any other drop pods to deep strike simultaneously.",
-    "Notes": ""
+    "Weapon Ids": "None",
+    "Ability": "Deepstrike",
+    "Ability 2": "Can activate with any other drop pods to deep strike simultaneously. ",
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Rhino",
+    "Unit ": "Rhino",
     "Type": "Transport",
     "Current Points": "75",
     "New Points": "5",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "8, 85",
     "Ability": "Tank shock: d6 mortal wounds on charge.",
-    "Notes": ""
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Impulsor",
+    "Unit ": "Impulsor",
     "Type": "Transport",
     "Current Points": "80",
     "New Points": "5",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "8, 15",
     "Ability": "After this unit activates, 1x unit within 12\" may take the \"Move\" action.",
-    "Notes": ""
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Razorback",
+    "Unit ": "Razorback",
     "Type": "Transport",
     "Current Points": "95",
     "New Points": "5",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "30, 85",
     "Ability": "Units embarked within this transport may take 1x action after they disembark.",
-    "Notes": ""
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Ballistus Dreadnought",
+    "Unit ": "Ballistus Dreadnought",
     "Type": "Dreadnought",
     "Current Points": "140",
     "New Points": "10",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "30, 81, 82",
     "Ability": "Reroll ranged attacks against targets above half health.",
-    "Notes": ""
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Brutalis Dreadnought",
+    "Unit ": "Brutalis Dreadnought",
     "Type": "Dreadnought",
     "Current Points": "160",
     "New Points": "10",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "8, 48, 136",
     "Ability": "Reroll melee attacks against targets above half health.",
-    "Notes": ""
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Redemptor Dreadnought",
+    "Unit ": "Redemptor Dreadnought",
     "Type": "Elite Dreadnought",
     "Current Points": "210",
     "New Points": "15",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "8, 78, 40, 52, 136",
     "Ability": "-1 damage.",
-    "Notes": ""
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Death Company Dreadnought",
+    "Unit ": "Death Company Dreadnought",
     "Type": "Dreadnought",
     "Current Points": "180",
     "New Points": "10",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "48, 136, 8",
     "Ability": "6+ FNP.",
-    "Notes": ""
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Invictor Tactical Warsuit",
+    "Unit ": "Invictor Tactical Warsuit",
     "Type": "Dreadnought",
     "Current Points": "125",
     "New Points": "8",
     "Model Count": "1",
     "Reinforcable": "No",
-    "Ability": "Unit may activate 1x \"Move\" action when an enemy ends movement within 12\" of them.",
-    "Notes": "Ambush."
+    "Weapon Ids": "69, 15, 44, 136",
+    "Ability": "Ambush.",
+    "Ability 2": "Unit may activate 1x \"Move\" action when an enemy ends movement within 12\" of them.",
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Gladiator Lancer/Reaper/Valiant",
+    "Unit ": "Gladiator Lancer/Reaper/Valiant",
     "Type": "Tank",
     "Current Points": "160",
     "New Points": "10",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "78, 8, 31, 30, 48, 53, 9",
     "Ability": "Reroll one hit or damage roll per activation.",
-    "Notes": ""
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Repulsor",
+    "Unit ": "Repulsor",
     "Type": "Heavy Transport",
     "Current Points": "180",
     "New Points": "10",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "53, 51, 15, 85, ",
     "Ability": "Unit within 3\" of this transport may re-embark when targeted by ranged attacks. Enemy unit may select other targets.",
-    "Notes": ""
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Repulsor Executioner",
+    "Unit ": "Repulsor Executioner",
     "Type": "Elite Tank",
     "Current Points": "220",
     "New Points": "15",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "33, 40, 51, 15",
     "Ability": "Reroll attacks against targets below half-strength.",
-    "Notes": ""
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Land Raider/Crusader/Redeemer",
+    "Unit ": "Land Raider/Crusader/Redeemer",
     "Type": "Heavy Transport",
     "Current Points": "240",
     "New Points": "15",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "30, 85, 8, 15",
     "Ability": "Assault Ramp: units embarked within this transport may disembark and perform 1 attack action after this unit enters melee.",
-    "Notes": ""
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Predator Annihilator/Destructor",
+    "Unit ": "Predator Annihilator/Destructor",
     "Type": "Tank",
     "Current Points": "135",
     "New Points": "8",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "30, 29, 85, 8, 56",
     "Ability": "Reroll one hit or damage roll per activation.",
-    "Notes": ""
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Baal Predator",
+    "Unit ": "Baal Predator",
     "Type": "Tank",
     "Current Points": "135",
     "New Points": "8",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "44, 85, 8, 43",
     "Ability": "Overwatch: May take \"Attack\" action when an enemy unit ends movement within 12\" of it.",
-    "Notes": ""
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Whirlwind",
+    "Unit ": "Whirlwind",
     "Type": "Siege Tank",
     "Current Points": "190",
     "New Points": "8",
     "Model Count": "1",
     "Reinforcable": "Yes",
+    "Weapon Ids": "80, 85, 8",
     "Ability": "Indirect fire.",
-    "Notes": ""
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Vindicator",
+    "Unit ": "Vindicator",
     "Type": "Siege Tank",
     "Current Points": "185",
     "New Points": "10",
     "Model Count": "1",
     "Reinforcable": "Yes",
-    "Ability": "Blast Shield: May fire blast into melee with itself.",
-    "Notes": ""
+    "Weapon Ids": "64, 85, 8",
+    "Ability": "Blast Shield: May fire blast into melee with itself. ",
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Stormhawk Interceptor",
+    "Unit ": "Stormhawk Interceptor",
     "Type": "Aircraft",
     "Current Points": "155",
     "New Points": "8",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "30, 52, 15",
     "Ability": "Plus 1 to hit against \"Fly\" units.",
-    "Notes": ""
+    "Keywords": "Aircraft, Fly"
   },
   {
-    "Unit": "Stormtalon Gunship",
+    "Unit ": "Stormtalon Gunship",
     "Type": "Aircraft",
     "Current Points": "165",
     "New Points": "8",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "53, 81, 82",
     "Ability": "Plus 1 to hit against units without \"Fly\" keyword.",
-    "Notes": ""
+    "Keywords": "Aircraft, Fly"
   },
   {
-    "Unit": "Stormraven Gunship",
+    "Unit ": "Stormraven Gunship ",
     "Type": "Elite Aircraft",
     "Current Points": "280",
     "New Points": "15",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "10, 48, 52, 79",
     "Ability": "-1 damage.",
-    "Notes": ""
+    "Keywords": "Aircraft, Fly"
   },
   {
-    "Unit": "Thunderhawk Gunship",
+    "Unit ": "Thunderhawk Gunship",
     "Type": "Elite Aircraft",
     "Current Points": "840",
     "New Points": "20",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "84, 34, 15, 29",
     "Ability": "Orbital Assault: units embarked within this transport may perform 1 action after disembarking.",
-    "Notes": ""
+    "Keywords": "Aircraft, Fly"
   },
   {
-    "Unit": "Nephilim Jetfighter",
+    "Unit ": "Nephilim Jetfighter",
     "Type": "Aircraft",
     "Current Points": "195",
     "New Points": "10",
     "Model Count": "1",
     "Reinforcable": "No",
+    "Weapon Ids": "16, 15, 83",
     "Ability": "\"Sustained Hits 2\" against \"Fly\" units.",
-    "Notes": ""
+    "Keywords": "Aircraft, Fly"
   },
   {
-    "Unit": "Firestrike Servoturret",
+    "Unit ": "Firestrike Servoturret",
     "Type": "Defensive Line",
     "Current Points": "55",
     "New Points": "2",
     "Model Count": "1",
     "Reinforcable": "Yes",
+    "Weapon Ids": "55",
     "Ability": "After a friendly unit within 6\" of this unit is attacked, this unit may return fire but can only target the unit that just activated.",
-    "Notes": ""
+    "Keywords": "Vehicle"
   },
   {
-    "Unit": "Hammerfall Bunker",
+    "Unit ": "Hammerfall Bunker",
     "Type": "Defensive Line",
     "Current Points": "175",
     "New Points": "5",
     "Model Count": "1",
     "Reinforcable": "Yes",
+    "Weapon Ids": "15, 81, 82",
     "Ability": "Overwatch: May take \"Attack\" action when an enemy unit ends movement within 12\" of it.",
-    "Notes": "Instead of arrays, just have multiple of the weapons"
+    "Keywords": "Vehicle",
+    "Notes": "Instead of arrays, just have multiple of the weapons "
   }
 ]
